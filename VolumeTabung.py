@@ -1,4 +1,3 @@
-import math
 
 r = float(input(" Masukkan panjang jari-jari tabung: "))
 t = float(input(" Masukkan tinggi tabung: "))
